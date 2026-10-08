@@ -2,8 +2,8 @@
 
 ## Host Server Baseline
 
-- **Total RAM available:** X.X GiB
-- **Total storage capacity of root (/) file system:** XX GB
+- **Total RAM available:** 1.9 GiB
+- **Total storage capacity of root (/) file system:** 19 GB
 
 ## Why Disk Space Matters
 
