@@ -1,4 +1,3 @@
-Here’s a revised version with a more natural, polished, and reflective tone. I improved the transitions, reduced repetitive phrasing, and made it sound more personal and professional while keeping the technical details and original experiences intact.
 
 # Final Reflection – From Junior Trainee to Enterprise Cloud Architect
 
